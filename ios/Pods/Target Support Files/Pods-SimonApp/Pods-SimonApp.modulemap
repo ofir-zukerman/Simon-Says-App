@@ -1,0 +1,6 @@
+module Pods_SimonApp {
+  umbrella header "Pods-SimonApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

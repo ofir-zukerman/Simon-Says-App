@@ -1,0 +1,6 @@
+module Pods_SimonApp_SimonAppTests {
+  umbrella header "Pods-SimonApp-SimonAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
